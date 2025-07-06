@@ -1,7 +1,7 @@
 {
   "plugins": {
     "postgresql": {
-      "name": "PostgreSQL",
+      "name": "Postgres",
       "source": "railway://plugin/postgresql"
     }
   }
